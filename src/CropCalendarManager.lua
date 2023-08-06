@@ -105,7 +105,7 @@ function CropCalendarManager:onFrameOpen()
     local toolTip = self.cropCalendar.elements[6]
 
     settingTitle:setText(g_i18n:getText("settings_cropCalendar_title"))
-    toolTip:setText("settings_cropCalendar_toolTip")
+    toolTip:setText(g_i18n:getText("settings_cropCalendar_toolTip"))
 
     -- Section title
     local title = TextElement.new()
