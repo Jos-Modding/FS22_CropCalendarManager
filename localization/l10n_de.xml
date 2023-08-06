@@ -17,6 +17,6 @@
         <e k="helpText_02_part01" v="Wenn du den Kalender einer anderen Karte auswählst, wird der aktuelle Kalender vollständig überschrieben. Wenn benutzerdefinierte Kulturen nicht in einem anderen Kalender vorhanden sind, gibt es KEINE Daten für diese Kulturen." />
 
         <e k="helpTitle_03" v="Erstellen benutzerdefinierter Kalender" />
-        <e k="helpText_03_part01" v="Die Anleitung findest du unter https://github.com/Jos-Modding/FS22_ExampleCropCalendar." />
+        <e k="helpText_03_part01" v="Die Anleitung findest du unter https://github.com/Jos-Modding/FS22_CropCalendarManager." />
     </elements>
 </l10n>

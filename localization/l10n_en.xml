@@ -17,6 +17,6 @@
         <e k="helpText_02_part01" v="Selecting another map’s calendar will completely overwrite the current calendar. If custom crops are not present in another calendar, there will NOT be any data for these crops." />
 
         <e k="helpTitle_03" v="Creating custom calendars" />
-        <e k="helpText_03_part01" v="Please visit https://github.com/Jos-Modding/FS22_ExampleCropCalendar for the guide." />
+        <e k="helpText_03_part01" v="Please visit https://github.com/Jos-Modding/FS22_CropCalendarManager for the guide." />
     </elements>
 </l10n>
