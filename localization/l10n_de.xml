@@ -11,7 +11,7 @@
         <e k="helpText_01_part02" v="Du kannst in den Spieleinstellungen einen anderen Wachstumskalendar auswählen. Alle verfügbaren Karten, einschließlich der Karten des Basisspiels, kannst du auswählen." />
         <e k="helpText_01_part03" v="Wenn du den Kalender einer anderen Karte auswählst, wird der aktuelle Kalender vollständig überschrieben. Wenn benutzerdefinierte Kulturen nicht in einem anderen Kalender vorhanden sind, gibt es KEINE Daten für diese Kulturen." />
         <e k="helpText_01_part04" v="Sobald man einen anderen Kalender ausgewählt hat, wird er sofort geladen. Speichere die Spieleinstellungen, um sicherzustellen, dass dein bevorzugter Kalender das nächste Mal geladen wird, wenn du diesen Speichervorgang startest." />
-        <e k="helpText_01_part05" v="Vorhandene Felder werden beim Ändern von Kalendern nicht neu ausgefüllt. Es wird einige Monate dauern, bis jedes KI-gesteuerte Feld seinen neuen Zyklus beginnt. Achte nach dem Kalenderwechsel auf alte Ernteverträge." />
+        <e k="helpText_01_part05" v="Vorhandene Felder werden beim Ändern von Kalendern nicht neu ausgefüllt. Es wird einige Monate dauern, bis jedes KI-gesteuerte Feld seinen neuen Zyklus beginnt. Achte nach dem Kalenderwechsel auf alte Ernteverträge. Bepflanzte Felder werden wahrscheinlich verdorren." />
 
         <e k="helpTitle_02" v="Fehlende Erntedaten" />
         <e k="helpText_02_part01" v="Wenn du den Kalender einer anderen Karte auswählst, wird der aktuelle Kalender vollständig überschrieben. Wenn benutzerdefinierte Kulturen nicht in einem anderen Kalender vorhanden sind, gibt es KEINE Daten für diese Kulturen." />
