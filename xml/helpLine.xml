@@ -8,6 +8,25 @@
             <paragraph>
                 <text text="$l10n_helpText_01_part02" />
             </paragraph>
+            <paragraph>
+                <text text="$l10n_helpText_01_part03" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_helpText_01_part04" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_helpText_01_part05" />
+            </paragraph>
+        </page>
+        <page title="$l10n_helpTitle_02">
+            <paragraph>
+                <text text="$l10n_helpText_02_part01" />
+            </paragraph>
+        </page>
+        <page title="$l10n_helpTitle_03">
+            <paragraph>
+                <text text="$l10n_helpText_03_part01" />
+            </paragraph>
         </page>
     </category>
 </helpLines>
