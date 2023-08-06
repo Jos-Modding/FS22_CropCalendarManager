@@ -4,11 +4,31 @@
     <version>1.0.0.0</version>
     <title>
         <en>Crop Calendar Manager</en>
-        <de>Crop Calendar Manager</de>
+        <de>Wachstumskalendar Manager</de>
     </title>
     <description>
-        <en><![CDATA[Mod description]]></en>
-        <de><![CDATA[Mod description]]></de>
+        <en><![CDATA[Crop Calendar Manager scans your mods for available maps.
+
+You can select another crop calendar in the Game Settings. All available maps, including base game maps, can be selected.
+
+Selecting another map’s calendar will completely overwrite the current calendar. If custom crops are not present in another calendar, there will NOT be any data for these crops.
+
+Once another calendar has been selected, it will be loaded immediately. Save the game settings to ensure your preferred calendar will load next time you start this save.
+
+Existing fields will not be repopulated when changing calendars. Each AI controlled field will take some months before it will start its new cycle. Be aware of old harvesting contracts after switching calendars.
+]]>
+        </en>
+        <de><![CDATA[Der Wachstumskalendar Manager durchsucht deine Mods nach verfügbaren Karten.
+
+Du kannst in den Spieleinstellungen einen anderen Wachstumskalendar auswählen. Alle verfügbaren Karten, einschließlich der Karten des Basisspiels, kannst du auswählen.
+
+Wenn du den Kalender einer anderen Karte auswählst, wird der aktuelle Kalender vollständig überschrieben. Wenn benutzerdefinierte Kulturen nicht in einem anderen Kalender vorhanden sind, gibt es KEINE Daten für diese Kulturen.
+
+Sobald man einen anderen Kalender ausgewählt hat, wird er sofort geladen. Speichere die Spieleinstellungen, um sicherzustellen, dass dein bevorzugter Kalender das nächste Mal geladen wird, wenn du diesen Speichervorgang startest.
+
+Vorhandene Felder werden beim Ändern von Kalendern nicht neu ausgefüllt. Es wird einige Monate dauern, bis jedes KI-gesteuerte Feld seinen neuen Zyklus beginnt. Achte nach dem Kalenderwechsel auf alte Ernteverträge.
+]]>
+        </de>
     </description>
     <iconFilename>icon_CropCalendarManager.dds</iconFilename>
     <multiplayer supported="false" />
