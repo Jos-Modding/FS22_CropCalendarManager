@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="77">
+    <author>Jos</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Crop Calendar Manager</en>
+        <de>Crop Calendar Manager</de>
+    </title>
+    <description>
+        <en><![CDATA[Mod description]]></en>
+        <de><![CDATA[Mod description]]></de>
+    </description>
+    <iconFilename>icon_CropCalendarManager.dds</iconFilename>
+    <multiplayer supported="false" />
+    <extraSourceFiles>
+        <sourceFile filename="src/main.lua" />
+    </extraSourceFiles>
+    <l10n filenamePrefix="localization/l10n" />
+</modDesc>

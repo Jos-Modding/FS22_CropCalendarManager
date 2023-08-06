@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <elements>
+        <e k="settings_cropCalendar_sectionTitle" v="Crop Calendar Manager" />
+        <e k="settings_cropCalendar_title" v="Crop Calendar" />
+        <e k="settings_cropCalendar_tooltip" v="Crop Calendar" />
+
+        <e k="helpHeader" v="Crop Calendar Manager" />
+        <e k="helpTitle_01" v="How does it work?" />
+        <e k="helpText_01_part01" v="This is helpful content." />
+        <e k="helpText_01_part02" v="If you read this, please send me pancakes." />
+    </elements>
+</l10n>

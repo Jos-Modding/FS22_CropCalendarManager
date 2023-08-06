@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<helpLines>
+    <category title="$l10n_helpHeader">
+        <page title="$l10n_helpTitle_01">
+            <paragraph>
+                <text text="$l10n_helpText_01_part01" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_helpText_01_part02" />
+            </paragraph>
+        </page>
+    </category>
+</helpLines>
