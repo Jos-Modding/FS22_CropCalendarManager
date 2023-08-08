@@ -31,14 +31,11 @@ end
 function CropCalendarManager:saveSettings()
     local key = "cropCalendarManager"
     local filename = Utils.getFilename("/cropCalendarManager.xml", g_currentMission.missionInfo.savegameDirectory)
+    local xmlFile = XMLFile.create('cropCalendarManagerSettings', filename, key)
 
-    if fileExists(filename) then
-        local xmlFile = XMLFile.create('cropCalendarManagerSettings', filename, key)
-
-        if xmlFile ~= nil then
-            xmlFile:setString(key .. "#id", g_cropCalendarManager.map.id)
-            xmlFile:save()
-        end
+    if xmlFile ~= nil then
+        xmlFile:setString(key .. "#id", g_cropCalendarManager.map.id)
+        xmlFile:save()
     end
 end
 
