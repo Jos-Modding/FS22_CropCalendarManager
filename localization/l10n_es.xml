@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <elements>
+        <e k="settings_cropCalendar_sectionTitle" v="Administrador de Calendario de Cultivos" />
+        <e k="settings_cropCalendar_title" v="Calendario de cultivos" />
+        <e k="settings_cropCalendar_toolTip" v="Cargue un calendario desde otro mapa." />
+        
+        <e k="helpHeader" v="Administrador de Calendario de Cultivos" />
+        <e k="helpTitle_01" v="Cómo se usa" />
+        <e k="helpText_01_part01" v="El administrador de calendario de cultivos escanea tus mods en busca de mapas disponibles." />
+        <e k="helpText_01_part02" v="Puedes seleccionar otro calendario de cultivos en la Configuración del juego.  Se pueden seleccionar todos los mapas disponibles, incluidos los mapas del juego base." />
+        <e k="helpText_01_part03" v="Seleccionar el calendario de otro mapa sobrescribirá completamente el calendario actual. Si los cultivos personalizados no están presentes en otro calendario, NO habrá ningún dato para estos cultivos." />
+        <e k="helpText_01_part04" v="Una vez que se haya seleccionado otro calendario, se cargará inmediatamente. Guarde la configuración del juego para asegurarse de que su calendario preferido se cargue la próxima vez que inicie este guardado." />
+        <e k="helpText_01_part05" v="Los campos existentes no se volverán a llenar al cambiar los calendarios.  Cada campo controlado por IA tardará algunos meses antes de que comience su nuevo ciclo.  Tenga en cuenta los contratos de cosecha antiguos después de cambiar de calendario.  Es probable que los campos sembrados se marchiten." />
+        
+        <e k="helpTitle_02" v="Faltan datos de cultivo" />
+        <e k="helpText_02_part01" v="Seleccionar el calendario de otro mapa sobrescribirá completamente el calendario actual.  Si los cultivos personalizados no están presentes en otro calendario, NO habrá ningún dato para estos cultivos." />
+        
+        <e k="helpTitle_03" v="Creación de calendarios personalizados" />
+        <e k="helpText_03_part01" v="Por favor visita https://github.com/Jos-Modding/FS22_CropCalendarManager para la guía." />
+    </elements>
+</l10n>
