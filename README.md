@@ -10,5 +10,7 @@ Once another calendar has been selected, it will be loaded immediately. Save the
 
 Existing fields will not be repopulated when changing calendars. Each AI controlled field will take some months before it will start its new cycle. Be aware of old harvesting contracts after switching calendars.
 
+View on [ModHub](https://www.farming-simulator.com/mod.php?mod_id=275437)
+
 ## Looking to create a custom crop calendar?
 Visit the [example repository](https://github.com/Jos-Modding/FS22_ExampleCropCalendar).
