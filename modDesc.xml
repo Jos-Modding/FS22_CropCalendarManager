@@ -5,6 +5,7 @@
     <title>
         <en>Crop Calendar Manager</en>
         <de>Wachstumskalendar Manager</de>
+        <es>Administrador de Calendario de Cultivos</es>
     </title>
     <description>
         <en><![CDATA[SINGLEPLAYER ONLY
@@ -41,6 +42,23 @@ Es ist möglich, benutzerdefinierte Erntekalender zu erstellen. Eine Anleitung f
 Veröffentlichen Sie Ihr Feedback im <a href="https://forum.giants-software.com/viewforum.php?f=966&sid=2873834f72bff25bea42205fbd02e107">Forum</a>.
 ]]>
         </de>
+        <es><![CDATA[SOLO UN JUGADOR
+
+El Administrador de Calendario de Cultivos escanea tus modificaciones en busca de mapas disponibles.
+
+Puedes seleccionar otro calendario de cultivos en la configuración del juego.  Se pueden seleccionar todos los mapas disponibles, incluidos los mapas del juego base.
+
+Seleccionar el calendario de otro mapa sobrescribirá completamente el calendario actual.  Si los cultivos personalizados no están presentes en otro calendario, NO habrá ningún dato para estos cultivos.
+
+Una vez que se haya seleccionado otro calendario, se cargará inmediatamente.  Guarde la configuración del juego para asegurarse de que su calendario preferido se cargue la próxima vez que inicie este guardado.
+
+Los campos existentes no se volverán a llenar al cambiar los calendarios.  Cada campo controlado por IA tardará algunos meses antes de que comience su nuevo ciclo.  Tenga en cuenta los contratos de cosecha antiguos después de cambiar de calendario.  Es probable que los campos sembrados se marchiten.
+
+Es posible crear calendarios de cultivos personalizados, visite <a href="https://github.com/Jos-Modding/FS22_CropCalendarManager">GitHub</a> para una guía.
+
+Publique sus comentarios en el <a href="https://forum.giants-software.com/viewforum.php?f=966&sid=2873834f72bff25bea42205fbd02e107">forum</a>.
+]]>
+        </es>
     </description>
     <iconFilename>icon_CropCalendarManager.dds</iconFilename>
     <multiplayer supported="false" />
