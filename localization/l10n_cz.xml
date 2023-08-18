@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <elements>
+        <e k="settings_cropCalendar_sectionTitle" v="Manažer kalendáře plodin" />
+        <e k="settings_cropCalendar_title" v="Kalendář plodin" />
+        <e k="settings_cropCalendar_toolTip" v="Nahrát kalendář z jiné mapy." />
+
+        <e k="helpHeader" v="Manažer kalendáře plodin" />
+        <e k="helpTitle_01" v="Použití" />
+        <e k="helpText_01_part01" v="Správce kalendáře Crop Calendar skenuje vaše mody na dostupné mapy." />
+        <e k="helpText_01_part02" v="V nastavení hry si můžete vybrat další kalendář plodiny. Lze vybrat všechny dostupné mapy, včetně map základních her." />
+        <e k="helpText_01_part03" v="Výběr kalendáře jiné mapy zcela přepíše aktuální kalendář. Pokud vlastní plodiny nejsou přítomny v jiném kalendáři, nebudou pro tyto plodiny žádné údaje." />
+        <e k="helpText_01_part04" v="Jakmile bude vybrán další kalendář, bude okamžitě načten. Uložte nastavení hry, abyste se ujistili, že se váš preferovaný kalendář načte, až při příštím spuštění tohoto uložení." />
+        <e k="helpText_01_part05" v="Při změně kalendářů nebudou osetá existující pole. Každé pole ovládané AI bude trvat několik měsíců, než zahájí nový cyklus. Po přepnutí kalendářů pozor na zakázky na sklizeň. Osetá pole pravděpodobně uschnou." />
+
+        <e k="helpTitle_02" v="Chybějící údaje o plodinách" />
+        <e k="helpText_02_part01" v="Výběr kalendáře jiné mapy zcela přepíše aktuální kalendář. Pokud vlastní plodiny nejsou přítomny v jiném kalendáři, nebudou pro tyto plodiny žádné údaje." />
+
+        <e k="helpTitle_03" v="Vytváření vlastních kalendářů" />
+        <e k="helpText_03_part01" v="Překlad: SniperKittenCZ. Prosím navštivte https://github.com/Jos-Modding/FS22_CropCalendarManager pro další informace." />
+    </elements>
+</l10n>
